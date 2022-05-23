@@ -1,0 +1,6 @@
+project: rnshah9/class-public
+target: class-public
+
+cmds:
+  - cmd: /repo/class @@
+    filepath: /test.ini
