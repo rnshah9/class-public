@@ -1,5 +1,5 @@
 project: rnshah9/class-public
-target: class-public
+target: class
 
 cmds:
   - cmd: /repo/class @@
