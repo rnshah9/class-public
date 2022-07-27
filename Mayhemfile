@@ -3,3 +3,4 @@ target: class
 
 cmds:
   - cmd: /repo/class @@
+    filepath: /test.ini
