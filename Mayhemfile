@@ -2,4 +2,4 @@ project: class-public
 target: class
 
 cmds:
-  - cmd: /class @@
+  - cmd: /repo/class @@
