@@ -1,0 +1,5 @@
+project: class-public
+target: get-number-of-titles
+
+cmds:
+  - cmd: /fuzz_get_number_of_titles

@@ -1,6 +1,0 @@
-project: class-public
-target: class
-
-cmds:
-  - cmd: /repo/class @@
-    filepath: /test.ini
